@@ -1,4 +1,4 @@
-package algos;
+package algos.arrays;
 
 public class OneAway {
 

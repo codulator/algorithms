@@ -1,4 +1,4 @@
-package algos;
+package algos.arrays;
 
 public class Urlify {
     private String transform(char[] arr, int length) {
